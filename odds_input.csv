@@ -1,21 +1,21 @@
 driver,team,winner,top3,top6,top10,flap,dnf
-Hamilton,Mercedes,3.4,1.3,1.23,1.14,3.15,6.5
-Verstappen,Red Bull,1.74,1.3,1.21,1.13,2.8,6.5
-Bottas,Mercedes,14,2,1.29,1.22,6,6
-Perez,Red Bull,16,2.1,1.29,1.2,6,6
-Ricciardo,McLaren,170,15,2.5,1.5,67,4.5
-Leclerc,Ferrari,75,7.5,1.73,1.36,26,4.5
-Vettel,Aston Martin,501,34,13,2.1,251,4.5
-Alonso,Alpine,501,34,7,2.06,276,4.33
-Sainz,Ferrari,126,11,2.1,1.36,67,5
-Stroll,Aston Martin,501,34,13,1.91,251,4.33
-Norris,McLaren,51,5.5,1.5,1.29,26,5
-Gasly,Alphatauri,126,11,1.85,1.34,51,4.5
-Ocon,Alpine,501,67,13,2.25,276,4
-Raikkonen,Alfa Romeo,1001,501,251,5.5,501,4.5
-Tsunoda,Alphatauri,200,26,7,1.7,176,3
-Giovinazzi,Alfa Romeo,2001,276,101,5,501,4.5
-Latifi,Williams,3001,751,251,21,501,3.75
-Russell,Williams,1001,67,17,2.75,251,4.33
-Schumacher,Haas,4001,1001,126,41,501,3.75
-Mazepin,Haas,5001,1251,251,67,501,3
+Hamilton,Mercedes,4.33,1.5,1.22,1.15,3.25,6.5
+Verstappen,Red Bull,1.58,1.32,1.2,1.15,2.63,6
+Bottas,Mercedes,26,2.5,1.32,1.21,7,5
+Perez,Red Bull,12,1.51,1.32,1.21,6,6
+Ricciardo,McLaren,101,10,2.25,1.33,41,5.5
+Leclerc,Ferrari,51,3.5,1.45,1.25,19,5
+Vettel,Aston Martin,1001,34,4.33,1.61,251,5
+Alonso,Alpine,501,34,3,1.62,251,5.5
+Sainz,Ferrari,70,4,1.56,1.33,34,6
+Stroll,Aston Martin,1501,151,26,4,251,5
+Norris,McLaren,276,15,6,2.75,41,5.5
+Gasly,Alphatauri,67,7,1.75,1.33,51,5
+Ocon,Alpine,1001,101,21,3.25,251,5
+Raikkonen,Alfa Romeo,2001,151,26,3.4,251,5.5
+Tsunoda,Alphatauri,1001,67,17,2.74,251,4
+Giovinazzi,Alfa Romeo,2001,151,26,3.4,251,5
+Latifi,Williams,2001,501,101,7,501,5
+Russell,Williams,2001,151,26,3.4,251,5
+Schumacher,Haas,4001,501,101,14,501,5
+Mazepin,Haas,5001,501,201,14,501,3.75
